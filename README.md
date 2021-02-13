@@ -1,3 +1,4 @@
+<link rel="shortcut  icon" href="https://2243798719.github.io/ccbh/g5.ico>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/2243798719/ccbh/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
